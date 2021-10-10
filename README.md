@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iwwan-01
-- 👀 I’m interested in Game Design, Frontend Development and UI/UX Design.
+- 👀 I’m interested in Game Design, Full Stack Development and UI/UX Design.
 - 🌱 I’m currently learning C# and Unity.
 
 
