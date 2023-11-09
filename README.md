@@ -16,7 +16,7 @@
 
 **Languages:**
 
-![Languages](https://skillicons.dev/icons?i=html,css,js)
+![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs&perline=3)
 
 **Front-End:**
 
@@ -24,12 +24,15 @@
 
 **Back-End:**
 
-![Back-End](https://skillicons.dev/icons?i=nodejs,express)
+![Back-End](https://skillicons.dev/icons?i=express,nodejs)
 
 **Databases:**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+![Databases](https://skillicons.dev/icons?i=mongodb,firebase,mysql)
 
+**Build Tools:**
+
+![Build Tools](https://skillicons.dev/icons?i=webpack,babel,vite)
 
 
 
