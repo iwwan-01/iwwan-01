@@ -28,7 +28,7 @@
 
 **Databases:**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,firebase,mysql)
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
 
 **Build Tools:**
 
