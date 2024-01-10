@@ -16,7 +16,7 @@
 
 **Languages:**
 
-![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs&perline=3)
+![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,solidity&perline=3)
 
 **Front-End:**
 
@@ -30,9 +30,9 @@
 
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
 
-**Build Tools:**
+**Tools:**
 
-![Build Tools](https://skillicons.dev/icons?i=webpack,babel,vite)
+![Tools](https://skillicons.dev/icons?i=webpack,babel,vite)
 
 
 
