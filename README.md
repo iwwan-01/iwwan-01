@@ -4,13 +4,15 @@
 
 🎮 In addition to my passion for **game development**, I really enjoy doing **web development**. 
 
-✍🏻 Therefore, I decided to learn **front-end development** and **mobile app development**. 
+✍🏻 Therefore, I decided to learn **full-stack web development** and **cross-platform mobile app development**. 
 
 🧑🏻‍💻 I currently specialize in the **MERN Stack**. (MongoDB, Express.js, React.js, Node.js)
 
-📱 I am currently working part-time as a **'Junior Full-Stack Developer'** at <a href="https://clikplatform.nl/">Clik</a>. 
+🏢 I am currently working part-time as a **'Junior Full-Stack Developer'** at <a href="https://indietopia.org/">Indietopia</a>. 
 
-💼 I am actively looking for a full-time position as a **'Front-End/Mobile App Engineer'**.
+📱 I am volunteering as a **'Junior Mobile App Developer'** at <a href="https://clikplatform.nl/">Clik</a>. 
+
+💼 I am actively looking for a full-time position as a **'Full-Stack/Mobile App Engineer'**.
 
 ### Tech Stack
 
@@ -28,12 +30,11 @@
 
 **Databases:**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+![Databases](https://skillicons.dev/icons?i=mongodb,postgres)
 
 **Tools:**
 
 ![Tools](https://skillicons.dev/icons?i=webpack,babel,vite)
-
 
 
 
