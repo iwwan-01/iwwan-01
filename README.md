@@ -1,14 +1,14 @@
 ### Hi, I am Ivan Patarov! 👋🏻
 
-🎓 I am currently pursuing a bachelor's degree in **'Game Design & Development'** in the Netherlands. 
+🎓 I am pursuing a bachelor's degree in **'Game Design & Development'** in the Netherlands. 
 
 🎮 In addition to my passion for **game development**, I really enjoy doing **web development**. 
 
 ✍🏻 Therefore, I decided to learn **full-stack web development** and **cross-platform mobile app development**. 
 
-🧑🏻‍💻 I currently specialize in the **MERN Stack**. (MongoDB, Express.js, React.js, Node.js)
+🧑🏻‍💻 I specialize in the **MERN Stack**. (MongoDB, Express.js, React.js, Node.js)
 
-🏢 I am currently working part-time as a **'Junior Full-Stack Developer'** at <a href="https://indietopia.org/">Indietopia</a>. 
+🏢 I am working part-time as a **'Junior Full-Stack Developer'** at <a href="https://indietopia.org/">Indietopia</a>. 
 
 📱 I am volunteering as a **'Junior Mobile App Developer'** at <a href="https://clikplatform.nl/">Clik</a>. 
 
