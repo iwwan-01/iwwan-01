@@ -34,7 +34,7 @@
 
 **Tools:**
 
-![Tools](https://skillicons.dev/icons?i=webpack,babel,vite)
+![Tools](https://skillicons.dev/icons?i=webpack,vite,babel)
 
 
 
