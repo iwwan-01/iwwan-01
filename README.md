@@ -8,9 +8,9 @@
 
 🧑🏻‍💻 I specialize in the **MERN Stack**. (MongoDB, Express.js, React.js, Node.js)
 
-🏢 I am working part-time as a **'Junior Full-Stack Developer'** at <a href="https://indietopia.org/">Indietopia</a>. 
+🏢 I am working part-time as a **'Junior Full-Stack Engineer'** at <a href="https://indietopia.org/">Indietopia</a>. 
 
-📱 I am volunteering as a **'Junior Mobile App Developer'** at <a href="https://clikplatform.nl/">Clik</a>. 
+📱 I am volunteering as a **'Junior Mobile App Engineer'** at <a href="https://clikplatform.nl/">Clik</a>. 
 
 💼 I am actively looking for a full-time position as a **'Full-Stack/Mobile App Engineer'**.
 
